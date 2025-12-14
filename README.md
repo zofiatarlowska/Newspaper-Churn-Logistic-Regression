@@ -1,3 +1,8 @@
+# Newspaper Subscription Churn Prediction
+
+This project focuses on building a binary classification model to predict
+customer churn for a newspaper subscription service.
+
 The project was completed as a preliminary Machine Learning task as part of
 the recruitment process for CERN.
 
