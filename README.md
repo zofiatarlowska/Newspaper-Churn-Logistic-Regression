@@ -57,7 +57,6 @@ The model achieved a **ROC-AUC of approximately 0.84**, indicating a strong abil
 
 Performance on the churn class shows a **recall of around 70%**, meaning that the majority of churned customers were correctly identified by the model. The corresponding **F1-score of approximately 0.53** reflects a balanced trade-off between precision and recall under imbalanced class conditions.
 
-Overall accuracy reached approximately **76%**, which is lower than the majority-class baseline. This behavior is expected, as the model is explicitly optimized to improve detection of churned customers rather than maximizing overall accuracy.
 ---
 
 ## Conclusions
